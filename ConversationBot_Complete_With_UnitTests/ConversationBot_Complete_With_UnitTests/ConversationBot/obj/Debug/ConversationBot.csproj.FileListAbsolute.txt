@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\bin\Debug\ConversationBot.exe.config
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\bin\Debug\ConversationBot.exe
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\bin\Debug\ConversationBot.pdb
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\obj\Debug\ConversationBot.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\obj\Debug\ConversationBot.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\obj\Debug\ConversationBot.exe
+C:\Users\hphifer\source\repos\ConversationBot\ConversationBot\obj\Debug\ConversationBot.pdb
